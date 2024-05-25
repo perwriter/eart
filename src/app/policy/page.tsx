@@ -63,7 +63,7 @@ const PolicyPage = () => {
     </section>
     
     <section className="mb-8">
-        <h2 className="text-2xl font-semibold mb-2">Children's Privacy</h2>
+        <h2 className="text-2xl font-semibold mb-2">Children&#39;s Privacy</h2>
         <p className="mb-4">Our services are not intended for children under the age of 13, and we do not knowingly collect personal information from children under 13. If you are a parent or guardian and you believe that your child has provided us with personal information, please contact us, and we will take steps to delete such information from our systems.</p>
     </section>
     

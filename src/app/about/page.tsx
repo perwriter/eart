@@ -8,7 +8,7 @@ const AboutPage = () => {
         <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-2">Our Story</h2>
             <p className="mb-4">EarT was founded with the mission to revolutionize the way people experience sound. We believe in the power of technology to enhance our daily lives, and our team of experts is dedicated to creating innovative products that redefine the audio industry.</p>
-            <p className="mb-4">With a focus on quality, design, and user experience, we strive to deliver cutting-edge audio solutions that inspire and delight our customers. Whether you're a music lover, audiophile, or tech enthusiast, EarT has something for everyone.</p>
+            <p className="mb-4">With a focus on quality, design, and user experience, we strive to deliver cutting-edge audio solutions that inspire and delight our customers. Whether you&#39;re a music lover, audiophile, or tech enthusiast, EarT has something for everyone.</p>
         </section>
         
         <section className="mb-8">
@@ -31,7 +31,7 @@ const AboutPage = () => {
         
         <section>
             <h2 className="text-2xl font-semibold mb-2">Contact Us</h2>
-            <p className="mb-4">If you have any questions or would like to learn more about EarT, please don't hesitate to get in touch:</p>
+            <p className="mb-4">If you have any questions or would like to learn more about EarT, please don&#39;t hesitate to get in touch:</p>
             <p className="mb-4">Email: info@eart.com</p>
             <p className="mb-4">Phone: (123) 456-7890</p>
         </section>

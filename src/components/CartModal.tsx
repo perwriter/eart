@@ -17,6 +17,7 @@ const CartModal = () => {
         <div className=" flex gap-4">
           <Image 
           src="https://images.pexels.com/photos/15911143/pexels-photo-15911143/free-photo-of-young-man-and-woman-looking-at-art-in-the-gallery.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+          alt="Cart 1"
           width={72} 
           height={96} 
           className="object-cover rounded-md"/>
@@ -42,6 +43,7 @@ const CartModal = () => {
         <div className=" flex gap-4">
           <Image 
           src="https://images.pexels.com/photos/164455/pexels-photo-164455.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+          alt="Cart 2"
           width={72} 
           height={96} 
           className="object-cover rounded-md"/>
